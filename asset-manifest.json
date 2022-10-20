@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/railsware/static/css/main.848d8e6d.css",
-    "main.js": "/railsware/static/js/main.9a102441.js",
+    "main.js": "/railsware/static/js/main.4aecf7c3.js",
     "static/js/787.9f6dd2d0.chunk.js": "/railsware/static/js/787.9f6dd2d0.chunk.js",
     "static/media/logo-img.png": "/railsware/static/media/logo-img.14c57cff5276e9ed03e5.png",
     "static/media/Forgot-password-illustration.jpg": "/railsware/static/media/Forgot-password-illustration.27435ec82747dbcf89a9.jpg",
@@ -12,11 +12,11 @@
     "static/media/Lock.svg": "/railsware/static/media/Lock.14cbc7aa893936cfa55e1b91e5623c07.svg",
     "static/media/Lock_active.svg": "/railsware/static/media/Lock_active.0070aff680546a100e0c059f7adf51d0.svg",
     "main.848d8e6d.css.map": "/railsware/static/css/main.848d8e6d.css.map",
-    "main.9a102441.js.map": "/railsware/static/js/main.9a102441.js.map",
+    "main.4aecf7c3.js.map": "/railsware/static/js/main.4aecf7c3.js.map",
     "787.9f6dd2d0.chunk.js.map": "/railsware/static/js/787.9f6dd2d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.848d8e6d.css",
-    "static/js/main.9a102441.js"
+    "static/js/main.4aecf7c3.js"
   ]
 }
